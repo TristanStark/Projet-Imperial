@@ -1,0 +1,148 @@
+{
+    "nom": "Callismera",
+    "habitants": 3500,
+    "type": "Cité",
+    "image": "H:/github/Projet Impérial 4/data/Bastion Impérial/3500.jpg",
+    "data": {
+        "city": {
+            "nom": "Callismera",
+            "surnoms": [
+                "la Couronne de l’Écume",
+                "la Cité aux Sept Ponts"
+            ],
+            "old_name": "Callismera",
+            "description": "Cité portuaire souveraine, à mi-chemin entre république marchande et théocratie insulaire",
+            "quartiers": [
+                {
+                    "nom": "Nord-Ouest (Port-Rouge)",
+                    "description": "Quartiers résidentiels, docks, zone d’arrivée des caravanes"
+                },
+                {
+                    "nom": "Centre-Nord (Cathédrale Bleue)",
+                    "description": "Quartier noble et religieux, bâtiments en pierre claire"
+                },
+                {
+                    "nom": "Centre-Ouest (Marchés circulaires)",
+                    "description": "Place marchande, tentes, bazars, auberges"
+                },
+                {
+                    "nom": "Sud-Ouest (Baie de la Brise)",
+                    "description": "Quartier populaire et festif, plage, quartier rouge"
+                },
+                {
+                    "nom": "Sud-Est (Garnison & amphithéâtre)",
+                    "description": "Quartier militaire et casernes"
+                },
+                {
+                    "nom": "Îles centrales (Palais de l’Aube)",
+                    "description": "Résidence du pouvoir religieux, jardins suspendus"
+                },
+                {
+                    "nom": "Îles Est (Temple de l’Ordre)",
+                    "description": "Ordres mystiques, bibliothèques, archives, prisons"
+                },
+                {
+                    "nom": "Rives agricoles sud et est",
+                    "description": "Villages tributaires et jardins vivriers"
+                }
+            ],
+            "dirigeant": {
+                "actuel": {
+                    "titre": "Matriarche Primordiale",
+                    "nom": "Haera Yllaseen, Élue de l’Écume",
+                    "description": "Une elfe de haute lignée, élue à vie parmi les cinq grandes Maisons marchandes, réputée pour sa diplomatie rigide et sa poigne de fer dans un gant de soie"
+                },
+                "maison_dirigeante": {
+                    "nom": "Ordre des Flots Sacrés",
+                    "description": "Une lignée de clercs-marchands autoproclamés successeurs des Prophètes d’Alguelune",
+                    "blason": "Une spirale nacrée entourée de larmes marines",
+                    "devise": "Que nul vent ne lève sans le chant des Anciennes"
+                }
+            },
+            "gouvernance": {
+                "type": "Triumvirat",
+                "membres": [
+                    {
+                        "nom": "Haera Yllaseen",
+                        "role": "Matriarche spirituelle"
+                    },
+                    {
+                        "nom": "Saphan Virel",
+                        "role": "Premier Quaisier, maître des douanes et du commerce maritime"
+                    },
+                    {
+                        "nom": "Torn Cazhern",
+                        "role": "Général des Garnisons de l’Écume"
+                    }
+                ],
+                "description": "Gouvernance par un triumvirat, avec une forte influence religieuse et commerciale",
+                "nombre_de_sieges": 3,
+                "duree_du_mandat": "à vie"
+            },
+            "economie": {
+                "secteurs": [
+                    {
+                        "nom": "Commerce maritime",
+                        "description": "Épices, étoffes exotiques, perles noires"
+                    },
+                    {
+                        "nom": "Artisanat de luxe",
+                        "description": "Vitraux, céramiques, parfums"
+                    },
+                    {
+                        "nom": "Thalassocratie religieuse",
+                        "description": "Taxation des pèlerinages et 'routes bénies'"
+                    },
+                    {
+                        "nom": "Événements",
+                        "description": "Régates bénies, joutes nautiques, carnaval des Vents d’Azur"
+                    },
+                    {
+                        "nom": "Port franc",
+                        "description": "Un des rares ports 'libres' où toutes les monnaies circulent"
+                    }
+                ]
+            },
+            "factions": [
+                {
+                    "nom": "Les Nacrées",
+                    "description": "Ordre religieux féminin, héritières du Dogme de l’Écume"
+                },
+                {
+                    "nom": "Confrérie des Sept Voiles",
+                    "description": "Coalition de capitaines marchands"
+                },
+                {
+                    "nom": "Les Couronnets",
+                    "description": "Jeunesse dorée des élites locales (très influents en art et culture)"
+                },
+                {
+                    "nom": "Garde des Ponts",
+                    "description": "Milice urbaine semi-autonome, respectée et crainte"
+                },
+                {
+                    "nom": "Les Héritiers d’Ambersoir",
+                    "description": "Archivistes d’un savoir antédiluvien gardé sur les îles Est"
+                }
+            ],
+            "lieux_notables": [
+                {
+                    "nom": "Plaza Solara",
+                    "description": "Immense dalle centrale de marbre blanc, gravée de formules géométriques et marques de solstice"
+                },
+                {
+                    "nom": "Dôme des Fractales",
+                    "description": "Bâtiment à toits bleus du quartier nord-est, siège du calcul astrologique"
+                },
+                {
+                    "nom": "Temple du Premier Rayon",
+                    "description": "Point d’origine sacré du méridien solaire, situé au sud exact"
+                },
+                {
+                    "nom": "Les Portes Harmonisées",
+                    "description": "Chaque porte de la ville joue une note différente lorsqu’on y frappe — certaines ne résonnent que les jours pairs"
+                }
+            ]
+        }
+    }
+}
